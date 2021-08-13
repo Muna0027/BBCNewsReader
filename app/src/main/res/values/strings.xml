@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BBC News Reader</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="search_news_titles">Search</string>
+    <string name="bbc_news_feeds">BBC News Feed</string>
+    <string name="favorites">Favourites</string>
+    <string name="choose_theme_color">Theme Colour Options</string>
+    <string name="purple">Purple</string>
+    <string name="yellow">Yellow</string>
+    <string name="save">Save</string>
+    <string name="bbc_news_reader">BBC News Reader</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBC Akhriste Wararka</string>
+    <string name="open">Fur</string>
+    <string name="close">Xir</string>
+    <string name="search_news_titles">Raadi Cinwaanada Wararka</string>
+    <string name="bbc_news_feeds">BBC Wararka Quudinta</string>
+    <string name="favorites">Jecel</string>
+    <string name="choose_theme_color">Dooro Midabka Mawduuca</string>
+    <string name="purple">Midaab</string>
+    <string name="yellow">Huruud</string>
+    <string name="save">Badbaadi</string>
+    <string name="bbc_news_reader">BBC Akhriste Wararka</string>
+</resources>

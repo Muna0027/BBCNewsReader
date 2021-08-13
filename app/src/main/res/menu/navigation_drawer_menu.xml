@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_page"
+        android:orderInCategory="75"
+        android:title="Main Page"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/rss_reader_page"
+        android:orderInCategory="75"
+        android:title="News Feeds"
+        android:icon="@drawable/ic_news"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/favorites_page"
+        android:orderInCategory="75"
+        android:title="Favorites"
+        android:icon="@drawable/ic_favorite"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/settings_page"
+        android:orderInCategory="75"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="always|collapseActionView" />
+
+</menu>
